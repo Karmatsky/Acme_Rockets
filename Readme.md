@@ -1,1 +1,3 @@
-# Simple website built with Tailwind CSS
+# HTML + Tailwind CSS project
+
+This is website of Acme Rockets
